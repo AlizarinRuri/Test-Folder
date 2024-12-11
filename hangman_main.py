@@ -5,9 +5,9 @@
 
 
 class Hangman():
-    def __init__()
+    def __init__():
         life = 0
 
 
-        
+
 
